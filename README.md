@@ -1,6 +1,6 @@
 ## Olá! Eu sou Guilherme
 
-- 👯 Atualmete não estou trabalhando, mas a procura de um 
+- 👯 Atualmete não estou trabalhando na área que desejo, mas estou estagiando em um escritório de arquitetura local.
 - 🌱 Estou estudando programação com o curso explorer da RocketSeat.
 
 <div align="center" style="display: inline_block"><br>
