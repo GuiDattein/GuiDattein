@@ -1,7 +1,7 @@
 ## Olá! Eu sou Guilherme
 
 - 👯 Atualmete não estou trabalhando, mas a procura de um 
-- 🌱 Estou aprendendo HTML, CSS,  JavaScript e React.
+- 🌱 Estou estudando programação com o curso explorer da RocketSeat.
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
