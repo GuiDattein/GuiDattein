@@ -1,6 +1,6 @@
 ## Olá! Eu sou Guilherme
 
-- 👯 Atualmete não estou trabalhando na área que desejo, mas estou estagiando em um escritório de arquitetura local.
+- 👯 Atualmete estou trabalhnado no suporte tecnico para uma provedora de internet.
 - 🌱 Estou estudando programação com o curso explorer da RocketSeat.
 
 <div align="center" style="display: inline_block"><br>
@@ -12,11 +12,7 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/guidattein" target="_blank">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDattein&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDattein&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 ##
 
