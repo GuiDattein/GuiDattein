@@ -1,13 +1,19 @@
 ## Olá! Eu sou Guilherme
 
-- 👯 Atualmete estou trabalhnado no suporte tecnico para uma provedora de internet.
-- 🌱 Estou estudando programação com o curso explorer da RocketSeat.
+- 👯 Atualmete estou trabalhnado como analista de dados na TEZ & TEZ.
+- 👨‍🎓 Me formei em Gestão da T.I. na Fatec de Bragança Paulista.
+- 📚 Estou estudando programação com o curso explorer da RocketSeat com foco em me especializar no desenvolvimento front-end.
+- 💻 Trabalho atualmente com banco de dados Oracle, utilizo o software Oracle Apex que é um ambiente de desenvolvimento de software para web da Oracle, e utilizo bastante JavaScript, pois é a linguagem compativel no ambiente.
+- 📆 Planejo me especializar e dominar algum Framework JavaScript como ReactJS. E uma plataforma como NodeJS para construção de APIs.
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://user-images.githubusercontent.com/91683433/194445624-7e81362f-1137-444a-aeb6-a727276ee7da.svg">
+  <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />          
+  <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://camo.githubusercontent.com/c9aef37e4a44a91f67e72920f6cb6c063fee18f91531e8191869cbfffaf641df/68747470733a2f2f7261776769742e636f6d2f44616e69336c53756e2f617765736f6d652d6f72636c617065782f6d61737465722f617065782d6c6f676f2e737667" />          
 </div>
 
 ##
