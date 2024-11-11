@@ -36,7 +36,7 @@
   <a href="http://web.whatsapp.com/send?phone=5511942005299" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.instagram.com/gui_dattein/" target="_blank">
+  <a href="https://www.instagram.com/_guidattein/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.gg/NDbUz5Zk" target="_blank">
