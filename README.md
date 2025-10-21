@@ -1,6 +1,5 @@
 ## Olá! Eu sou Guilherme
 
-- 👯 Atualmete estou trabalhnado como analista de dados na TEZ & TEZ.
 - 👨‍🎓 Me formei em Gestão da T.I. na Fatec de Bragança Paulista.
 - 📚 Estou estudando programação com o curso explorer da RocketSeat com foco em me especializar no desenvolvimento front-end.
 - 💻 Trabalho atualmente com banco de dados Oracle, utilizo o software Oracle Apex que é um ambiente de desenvolvimento de software para web da Oracle, e utilizo bastante JavaScript, pois é a linguagem compativel no ambiente.
