@@ -18,14 +18,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/guidattein" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiDattein&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiDattein&layout=compact&langs_count=7&theme=dark"/>-->
-</div>
-
-##
-
 <div align="center"> 
   <a href="https://www.linkedin.com/in/guidattein/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -41,10 +33,6 @@
   </a>
   <a href="https://discord.gg/NDbUz5Zk" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a> 
-  
-   
- 
-  ![Snake animation](https://github.com/GuiDattein/GuiDattein/blob/output/github-contribution-grid-snake.svg)
+  </a>
  
 </div>
