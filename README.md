@@ -1,18 +1,35 @@
 ## Olá! Eu sou Guilherme
 
-- 👨‍🎓 Me formei em Gestão da T.I. na Fatec de Bragança Paulista.
-- 📚 Estou estudando programação com o curso explorer da RocketSeat com foco em me especializar no desenvolvimento front-end.
-- 💻 Trabalho atualmente com banco de dados Oracle, utilizo o software Oracle Apex que é um ambiente de desenvolvimento de software para web da Oracle, e utilizo bastante JavaScript, pois é a linguagem compativel no ambiente.
-- 📆 Planejo me especializar e dominar algum Framework JavaScript como ReactJS. E uma plataforma como NodeJS para construção de APIs.
+Sou formado em Tecnologia da Informação, pela FATEC Bragança Paulista
+
+Depois de alguns anos como Analista de Dados, onde criei queries complexas em PL/SQL - oracle e aplicações low-code no Oracle APEX para otimizar processos e garantir dados de qualidade, decidi mergulhar de vez no desenvolvimento web.
+
+Meu foco atual é back-end: JavaScript/TypeScript e Node.js para construir APIs RESTful robustas. Minha experiência com dados e lógica SQL me deu uma base sólida para me direcionar a isso — com a mente aberta também para novas stacks como Java.
+
+Já domino HTML e CSS, então estou complementando meus estudos com React.js e Next.js para entregar soluções full stack mais completas. Aberto a oportunidades como Desenvolvedor Back-end ou Full Stack, onde eu possa aplicar essa combinação de skills analíticas + código.
+
+Estou estudando inglês para abrir oportunidades globais, e aprender ainda mais com culturas diferentes.
+
+##
+
+Stacks:
+- HTML e CSS
+- JavaScript / TypeScript
+- React.js
+- Node.js
+- Docker
+- PostgreSQL
+- PL/SQL
+- Oracle SQL
+- Oracle APEX
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://user-images.githubusercontent.com/91683433/194445624-7e81362f-1137-444a-aeb6-a727276ee7da.svg">
-  <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />          
-  <img align="center" alt="Gui-NodeJS" height="30" width="40" src="https://camo.githubusercontent.com/c9aef37e4a44a91f67e72920f6cb6c063fee18f91531e8191869cbfffaf641df/68747470733a2f2f7261776769742e636f6d2f44616e69336c53756e2f617765736f6d652d6f72636c617065782f6d61737465722f617065782d6c6f676f2e737667" />          
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://user-images.githubusercontent.com/91683433/194445624-7e81362f-1137-444a-aeb6-a727276ee7da.svg">
+  <img align="center" alt="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />        
 </div>
 
 ##
@@ -29,9 +46,6 @@
   </a>
   <a href="https://www.instagram.com/_guidattein/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/NDbUz5Zk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
  
 </div>
